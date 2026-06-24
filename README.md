@@ -4,6 +4,8 @@ A Unity prototype recreating the core **harpoon mechanic** from *Dave the Diver*
 
 The project emphasizes modular system design where gameplay, weapon logic, camera behavior, and visual feedback are separated into independent components and connected through events and clear responsibilities.
 
+![Harpoon Gameplay](dave%20the%20diver%20small%20video.gif)
+
 ## Architecture & Design
 
 * **Finite State Machine (FSM)** for structured player states (movement, aim, shoot, recovery)
